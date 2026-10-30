@@ -20,7 +20,7 @@ The solution includes multiple forecasting models, walk-forward backtesting, pre
 
 ## Care-load forecast
 
-![Care-load forecast](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/monthly_churn.jpeg)
+![Care-load forecast](https://github.com/Ayush-Gautam11122/uac-care-load-forecasting/blob/main/careload-forecast.jpg)
 
 ## Discharge demand
 
