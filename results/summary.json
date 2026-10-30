@@ -1,0 +1,11 @@
+{
+ "best": {
+  "hhs_care": "ETS",
+  "discharged": "MovingAvg7"
+ },
+ "CAP": 2450,
+ "breach_events": [
+  "2025-05-19",
+  "2025-12-13"
+ ]
+}
