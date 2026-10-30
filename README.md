@@ -12,6 +12,25 @@ The project uses historical daily operational data to forecast the number of chi
 
 The solution includes multiple forecasting models, walk-forward backtesting, prediction intervals, model performance evaluation, and an interactive Streamlit dashboard.
 
+## 📸 Project Dashboard Preview
+
+![UAC Forecasting Dashboard](figures/dashboard.png)
+
+## 📊 Dashboard Screenshots
+
+### Care Load Forecast
+![Care Load Forecast](figures/care-load.png)
+
+### Discharge Demand
+![Discharge Demand](figures/discharge-demand.png)
+
+### Model Comparison
+![Model Comparison](figures/model-comparison.png)
+
+### Scenario Analysis
+![Scenario Analysis](figures/scenario-analysis.png)
+
+
 ## 🎯 Project Objectives
 
 - Analyze historical UAC program data and identify operational trends.
@@ -150,21 +169,13 @@ The Streamlit application provides five main sections:
 
 ```text
 uac-care-load-forecasting/
-│
 ├── figures/
-│
-├── results/
-│
+│   ├── dashboard.png
+│   ├── care-load.png
+│   ├── discharge-demand.png
+│   └── model-comparison.png
 ├── src/
-│   ├── prep.py
-│   ├── eda.py
-│   ├── forecast.py
-│   ├── metrics.py
-│   └── figs2.py
-│
 ├── app.py
-├── data_raw.csv
-├── requirements.txt
 └── README.md
 ```
 
