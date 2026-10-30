@@ -16,7 +16,7 @@ The solution includes multiple forecasting models, walk-forward backtesting, pre
 
 ## Dashboard
 
-![Dashboard]([https://github.com/Ayush-Gautam11122/uac-care-load-forecasting/blob/main/Dashboard.png])
+![Dashboard](https://github.com/Ayush-Gautam11122/uac-care-load-forecasting/blob/main/Dashboard.png)
 
 ## Monthly Churn Trend
 
