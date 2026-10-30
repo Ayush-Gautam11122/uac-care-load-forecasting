@@ -28,7 +28,7 @@ The solution includes multiple forecasting models, walk-forward backtesting, pre
 
 ## Model comparison
 
-![Model comparison](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/correlation_heatmap.jpeg)
+![Model comparison](https://github.com/Ayush-Gautam11122/uac-care-load-forecasting/blob/main/Model%20Comparison.jpg)
 
 ## Scenarios
 
