@@ -18,21 +18,21 @@ The solution includes multiple forecasting models, walk-forward backtesting, pre
 
 ![Dashboard](https://github.com/Ayush-Gautam11122/uac-care-load-forecasting/blob/main/Dashboard.png)
 
-## Monthly Churn Trend
+## Care-load forecast
 
-![Monthly Churn](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/monthly_churn.jpeg)
+![Care-load forecast](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/monthly_churn.jpeg)
 
-## Churn by State
+## Discharge demand
 
-![Churn by State](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/churn_by_states.jpeg)
+![Discharge demand](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/churn_by_states.jpeg)
 
-## Correlation Analysis
+## Model comparison
 
-![Correlation Heatmap](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/correlation_heatmap.jpeg)
+![Model comparison](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/correlation_heatmap.jpeg)
 
-## Face Plot Grid
+## Scenarios
 
-![Face Plot Grid](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/faceplot_grid.jpeg)
+![Scenarios](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/faceplot_grid.jpeg)
 
 
 
