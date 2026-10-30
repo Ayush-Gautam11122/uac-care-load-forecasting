@@ -24,7 +24,7 @@ The solution includes multiple forecasting models, walk-forward backtesting, pre
 
 ## Discharge demand
 
-![Discharge demand](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/churn_by_states.jpeg)
+![Discharge demand](https://github.com/Ayush-Gautam11122/uac-care-load-forecasting/blob/main/Discharge%20demand.jpg)
 
 ## Model comparison
 
