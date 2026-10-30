@@ -14,21 +14,11 @@ The solution includes multiple forecasting models, walk-forward backtesting, pre
 
 ## 📸 Project Dashboard Preview
 
-![UAC Forecasting Dashboard](figures/dashboard.png)
-
-## 📊 Dashboard Screenshots
-
-### Care Load Forecast
-![Care Load Forecast](figures/care-load.png)
-
-### Discharge Demand
-![Discharge Demand](figures/discharge-demand.png)
-
-### Model Comparison
-![Model Comparison](figures/model-comparison.png)
-
-### Scenario Analysis
-![Scenario Analysis](figures/scenario-analysis.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayush-Gautam11122/uac-care-load-forecasting/main/figures/dashboard.png" 
+       alt="UAC Care Load Forecasting Dashboard" 
+       width="100%">
+</p>
 
 
 ## 🎯 Project Objectives
