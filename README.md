@@ -32,7 +32,7 @@ The solution includes multiple forecasting models, walk-forward backtesting, pre
 
 ## Scenarios
 
-![Scenarios](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/faceplot_grid.jpeg)
+![Scenarios](https://github.com/Ayush-Gautam11122/uac-care-load-forecasting/blob/main/Scenarios.jpg)
 
 
 
