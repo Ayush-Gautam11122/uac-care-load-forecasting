@@ -12,13 +12,28 @@ The project uses historical daily operational data to forecast the number of chi
 
 The solution includes multiple forecasting models, walk-forward backtesting, prediction intervals, model performance evaluation, and an interactive Streamlit dashboard.
 
-## 📸 Project Dashboard Preview
+# 📊 Data Visualizations
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ayush-Gautam11122/uac-care-load-forecasting/main/figures/dashboard.png" 
-       alt="UAC Care Load Forecasting Dashboard" 
-       width="100%">
-</p>
+## Care-load forecast
+
+![Care-load forecast](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/churn_by_plan.jpeg)
+
+## Monthly Churn Trend
+
+![Monthly Churn](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/monthly_churn.jpeg)
+
+## Churn by State
+
+![Churn by State](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/churn_by_states.jpeg)
+
+## Correlation Analysis
+
+![Correlation Heatmap](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/correlation_heatmap.jpeg)
+
+## Face Plot Grid
+
+![Face Plot Grid](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/faceplot_grid.jpeg)
+
 
 
 ## 🎯 Project Objectives
